@@ -6,7 +6,7 @@
 require 'linguist/file_blob'
 require 'linguist/language'
 require 'linguist/repository'
-require 'rugged'
+# require 'rugged'
 
 path = ARGV[0] || Dir.pwd
 

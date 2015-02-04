@@ -1,5 +1,5 @@
 require 'linguist/lazy_blob'
-require 'rugged'
+# require 'rugged'
 
 module Linguist
   # A Repository is an abstraction of a Grit::Repo or a basic file
