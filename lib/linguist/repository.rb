@@ -1,4 +1,4 @@
-require 'linguist/lazy_blob'
+# require 'linguist/lazy_blob'
 # require 'rugged'
 
 module Linguist
